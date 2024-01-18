@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules
+
+# Environment configuration
+.env
+
+# Log files
+npm-debug.log
+yarn-error.log
+
+# Output of 'npm pack'
+*.tgz
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Node.js generated files
+npm-debug.log
+yarn-error.log
